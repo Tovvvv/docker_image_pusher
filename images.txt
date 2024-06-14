@@ -1,1 +1,2 @@
-nyanmisaka/jellyfin:latest-rockchip
+linuxserver/jellyfin:nightly-version-2024061005ubu2204
+nyanmisaka/jellyfin:latest
